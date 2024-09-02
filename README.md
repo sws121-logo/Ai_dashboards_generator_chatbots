@@ -46,4 +46,4 @@ The system architecture consists of several key components:
 ### Installation
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/sws121-logo/Ai_dashboards_generator_chatbots/tree/main
